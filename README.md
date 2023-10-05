@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DVT7125](https://github.com/DVT7125)
 
-- 📫 How to reach me **ducz1ifc@duck.com**
+- 📫 How to reach me **ducz1ifc@duck.com** (This is a email address that forwards emails to me, so that you all can't spam me ;)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
