@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Voidless</h1>
-<h3 align="center">A weird 13 year old who's coding for the future.</h3>
+<h3 align="center">A weird 14 year old who's coding for the future.</h3>
 <h1 align="center"><b>Will be offline for quite some time. All tech is offline, and I am at school from 7:30am to 4:00pm.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvt7125&label=Profile%20views&color=0e75b6&style=flat" alt="dvt7125" /> </p>
